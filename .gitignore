@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+coverage/
+.vscode/
+.idea/
+*.tmp
+*.temp
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+Thumbs.db
+desktop.ini
